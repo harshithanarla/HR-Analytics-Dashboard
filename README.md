@@ -17,3 +17,12 @@ Which employees have the highest and lowest attendance?
 Are there seasonal trends in WFH and SL percentages?
 
 Dashboard Interaction <a href="https://github.com/harshithanarla/HR-Analytics-Dashboard/blob/main/HR%20Analytics%20Atliq(Data).pbix">View Dashboard</a>
+
+## Process
+Verify the data for any missing values and sort it out.
+Make sure the data is consistent and clean with respect to data type, data format and values used.
+Created the KPI's,Tables and charts to the questions asked.
+Finally placed all the charts and converted into dashboard.
+
+## Dashboard
+
