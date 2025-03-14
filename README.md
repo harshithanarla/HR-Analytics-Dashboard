@@ -27,3 +27,12 @@ The Presence Insights Dashboard provides data-driven insights into employee atte
 ## Dashboard
 ![Screenshot (1)](https://github.com/user-attachments/assets/701cbd3a-e1b0-42b4-a312-c150584c56e4)
 
+## Project Insights
+- The total presence percentage across employees is **91.83%**.
+- The average work-from-home percentage is **10.00%**, with peaks in May 2022.
+- The highest SL percentage occurs on **Mondays (1.62%)**, indicating a trend in employees taking leave at the start of the week
+- Mondays and Tuesdays** have the highest presence percentages, while **Fridays** have slightly lower attendance.
+
+## Conclusion
+The Presence Insights Dashboard provides a clear and data-driven view of employee attendance, remote work trends, and sick leave patterns. Through Power BI, the dashboard enables organizations to make informed decisions on workforce planning, optimize attendance policies, and enhance productivity. The key insights indicate that attendance is highest on Tuesdays, sick leave is most common on Mondays, and remote work peaked during May 2022. These insights help HR teams and management take proactive measures to improve workforce engagement and operational efficiency.
+
