@@ -6,3 +6,14 @@ The Presence Insights Dashboard provides data-driven insights into employee atte
 
 ## Dataset Used
 <a href="https://github.com/harshithanarla/HR-Analytics-Dashboard/blob/main/Attendance%20Sheet%202022-2023_Masked.xlsx">Employee Attendance Sheet</a>
+
+## Key Questions Answered  
+
+What is the overall presence percentage of employees?
+How does WFH percentage change over time?  
+What are the trends in sick leave (SL) taken by employees? 
+Which day of the week has the highest and lowest presence?  
+Which employees have the highest and lowest attendance?
+Are there seasonal trends in WFH and SL percentages?
+
+Dashboard Interaction <a href="">Dashboard</a>
