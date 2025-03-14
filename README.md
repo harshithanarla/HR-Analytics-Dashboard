@@ -25,4 +25,5 @@ Created the KPI's,Tables and charts to the questions asked.
 Finally placed all the charts and converted into dashboard.
 
 ## Dashboard
+![Screenshot (1)](https://github.com/user-attachments/assets/701cbd3a-e1b0-42b4-a312-c150584c56e4)
 
