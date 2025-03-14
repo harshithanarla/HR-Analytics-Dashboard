@@ -16,7 +16,7 @@ The Presence Insights Dashboard provides data-driven insights into employee atte
 - Which employees have the highest and lowest attendance?
 - Are there seasonal trends in WFH and SL percentages?
 
-Dashboard Interaction <a href="https://github.com/harshithanarla/HR-Analytics-Dashboard/blob/main/HR%20Analytics%20Atliq(Data).pbix">View Dashboard</a>
+- Dashboard Interaction <a href="https://github.com/harshithanarla/HR-Analytics-Dashboard/blob/main/HR%20Analytics%20Atliq(Data).pbix">View Dashboard</a>
 
 ## Process
 - Verify the data for any missing values and sort it out.
