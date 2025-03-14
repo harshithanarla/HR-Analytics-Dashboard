@@ -16,4 +16,4 @@ Which day of the week has the highest and lowest presence?
 Which employees have the highest and lowest attendance?
 Are there seasonal trends in WFH and SL percentages?
 
-Dashboard Interaction <a href="">Dashboard</a>
+Dashboard Interaction <a href="https://github.com/harshithanarla/HR-Analytics-Dashboard/blob/main/HR%20Analytics%20Atliq(Data).pbix">View Dashboard</a>
